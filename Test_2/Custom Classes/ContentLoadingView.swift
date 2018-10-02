@@ -2,7 +2,7 @@
 //  ContentLoadingView.swift
 //  Starz
 //
-//  Created by Mario Rosales Maillo on 23/3/17.
+//  Created by Abdul Sami on 29/09/18.
 //  Copyright © 2017 StarzPlay Arabia. All rights reserved.
 //
 
